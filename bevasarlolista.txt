@@ -2,8 +2,4 @@
 2. kenyer
 3. majkrem
 4. allat
-5. cigaretta
-6. sor
-7. bor
-8. tusfurdo
-9. fogkrem
+5. fogkrem
